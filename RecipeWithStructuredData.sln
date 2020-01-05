@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeWithStructuredData", "RecipeWithStructuredData\RecipeWithStructuredData.csproj", "{A305C216-9B1D-4845-B5A4-A298120F4273}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A305C216-9B1D-4845-B5A4-A298120F4273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A305C216-9B1D-4845-B5A4-A298120F4273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A305C216-9B1D-4845-B5A4-A298120F4273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A305C216-9B1D-4845-B5A4-A298120F4273}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D475EF98-D815-41F6-9420-D8D6948BACF3}
+	EndGlobalSection
+EndGlobal
